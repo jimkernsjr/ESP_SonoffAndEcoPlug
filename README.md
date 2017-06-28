@@ -1,6 +1,14 @@
 # ESP_SonoffAndEcoPlug
 OTA enabled MQTT firmware for the Sonoff, ECOplug, Wemos, and similar
 
+For up to date content and support, please visit this thread:
+http://homeautomation.proboards.com/thread/254/esp8266-update-sonoff-ecoplugs-similar
+
+on this site:
+http://homeautomation.proboards.com/board/2/openhab-rfm69-based-arduino
+for more great resources, help, and support on Arduino, ESP8266, and Home Automation
+
+
 
 ESP8266 OTA Update code for Sonoff, Ecoplugs, Wemos +similar
 
