@@ -25,11 +25,6 @@
 
 #define mqtt_server "10.1.1.15"      // mqtt server IP
 
-//#define wifi_ssid_A "BOOMERMORE_01"          // fallback wifi station name; if not present use same as A
-//#define wifi_password_A "wuvlawb2"      // fallback wifi password; if not present use same as A
-//#define mqtt_server "192.168.2.15"      // mqtt server IP
-
-
 #define nodeId 46								// node ID
 #define DEBUG									// uncomment for debugging
 #define OnAtPowerup 1             //jim - 0=off, 1=on
